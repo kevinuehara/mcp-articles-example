@@ -1,0 +1,22 @@
+{
+  "name": "mcp-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "inspect": "npx -y @modelcontextprotocol/inspector npx -y tsx src/main.ts"
+  },
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "typescript",
+    "nodejs"
+  ],
+  "author": "Kevin Uehara",
+  "license": "ISC",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.17.2",
+    "zod": "^3.21.4"
+  }
+}

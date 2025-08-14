@@ -1,0 +1,9 @@
+{
+    "mcpServers": {
+      "articles-mcp-example": {
+        "command": "npx",
+        "args": ["tsx", "src/main.ts"],
+        "env": {}
+      }
+    }
+  }
