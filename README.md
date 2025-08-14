@@ -11,7 +11,7 @@
 
 ## 🎯 What is this project?
 
-This is a complete MCP (Model Context Protocol) server that implements a task management system (Todo List) with robust validation using **TypeScript** and **Zod**. The server integrates directly with **Cursor**, allowing you search articles on dev.to.
+This is a complete MCP (Model Context Protocol) server that implements a articles of dev.to with robust validation using **TypeScript** and **Zod**. The server integrates directly with **Cursor**, allowing you search articles on dev.to.
 
 ### 🌟 Why use MCP?
 
